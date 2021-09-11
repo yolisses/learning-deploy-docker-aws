@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "UNLICENSED"
+}
